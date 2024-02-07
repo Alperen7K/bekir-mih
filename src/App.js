@@ -29,9 +29,9 @@ function App() {
      </h1>
     </div>
     <div className="flex flex-col items-start justify-center">
-     <a className={aClass} href="tel:+90 539 672 02 19">
+     <a className={aClass} href="tel:+90 545 319 98 97">
       <img alt="icon" className={iconClass} src={phone} />
-      <label className={labelClass}>+90 539 672 02 19</label>
+      <label className={labelClass}>+90 545 319 98 97</label>
      </a>
      <a className={aClass} href="mailto:bilgi@ozteknikrekor.com.tr">
       <img alt="icon" className={iconClass} src={mail} />
